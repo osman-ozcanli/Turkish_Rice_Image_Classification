@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+Rice_Image_Dataset/
+*.keras
+*.h5
+__pycache__/
+*.pyc
+.env
+Rice_Citation_Request.txt
